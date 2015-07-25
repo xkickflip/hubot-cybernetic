@@ -21,6 +21,6 @@ Then add **hubot-cybernetic** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> who is hubot?
+hubot>> I am Hubot. I'm a cybernetic organism. Living tissue over a metal endoskeleton. My mission is to protect you.
 ```
