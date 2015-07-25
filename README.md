@@ -1,4 +1,4 @@
-# hubot-cybernetic
+# hubot-cybernetic [![Build Status](https://travis-ci.org/xkickflip/hubot-cybernetic.svg?branch=master)](https://travis-ci.org/xkickflip/hubot-cybernetic)
 
 Allows hubot to identify itself to users when asked what or who it is.
 
